@@ -6,7 +6,8 @@
     "jquesada2016",
     "Imzxhir",
     "atamakahere-git",
-    "fulviodenza"
+    "fulviodenza",
+    "shishen575"
   ],
   "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please send a signing request to cla-requests@gdlauncher.com and add your github handle to [contributors list](https://github.com/gorilla-devs/clabot-config/blob/master/.clabot).",
   "label": "cla-signed",
